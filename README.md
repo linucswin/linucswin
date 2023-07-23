@@ -21,6 +21,7 @@
    * **Discord Bots** - Node.js and Discord.py
    * **ImGui** - C++
    * **GTA V Job Helper** - Python
+   * **GTA V Mods** - OpenIV & TextureTool & FFDEC
    * **Discord Servers Customization**
    * **Photo & Video Editting** - Adobe Photoshop & Adobe Premiere Pro
    * **3D Building** - Blender
