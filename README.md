@@ -17,6 +17,7 @@
 
 
    * **Websites (Frontend)** - HTML5 & CSS3(Bootstrap) and JS
+   * **Shopify (Theme)** - Liquid
    * **Discord Bots** - Node.js and Discord.py
    * **ImGui** - C++
    * **GTA V Job Helper** - Python
