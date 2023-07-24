@@ -16,7 +16,7 @@
 ### 💻 Projects & Accumulated skills (Beginner Level)
 
 
-   * **Websites (Frontend)** - HTML5 & CSS3(Bootstrap) and JS / php
+   * **Websites (Frontend)** - HTML5 & CSS3(Bootstrap) and JS / PHP
    * **Shopify (Theme)** - Liquid
    * **Discord Bots** - Node.js and Discord.py
    * **ImGui** - C++
