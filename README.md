@@ -37,6 +37,7 @@
    * **Discord Servers Customization**
    * **Photo & Video Editting** - Adobe Photoshop & Adobe Premiere Pro
    * **3D Building** - Blender
+   * * **Liberty Clan Raport Checker** - Python
 
 ---
 
